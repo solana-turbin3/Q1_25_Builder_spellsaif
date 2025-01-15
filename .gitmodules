@@ -1,3 +1,6 @@
 [submodule "prereq"]
 	path = prereq
 	url = https://github.com/spellsaif/turbin3-prereq/
+[submodule "turbin3-solana-starter"]
+	path = turbin3-solana-starter
+	url = https://github.com/spellsaif/turbin3-solana-starter
