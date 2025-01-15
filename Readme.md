@@ -6,5 +6,5 @@ This is the repository of me doing all Turbin3 Cohort 2025 Assignments.
 These are list of assignments I have completed till now
 
 ### Prerequisites
-- [Enrollment dApp - TypeScript](./turbin3-prereq/Enrollment-dApp-TS-Assignment/)
-- [Enrollment dApp - Rust](./turbin3-prereq/Enrollment-dApp-Rust-Assignment/)
+- [Enrollment dApp - TypeScript](./prereq/Enrollment-dApp-TS-Assignment/)
+- [Enrollment dApp - Rust](./prereq/Enrollment-dApp-Rust-Assignment/)
